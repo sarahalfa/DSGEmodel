@@ -1,10 +1,3 @@
-# ############################################################################
-# (c) Chancellery of the Prime Minister 2012-2015                            #
-#                                                                            #
-# Authors: Grzegorz Klima, Karol Podemski, Kaja Retkiewicz-Wijtiwiak         #
-# ############################################################################
-# Basic RBC model
-# ############################################################################
 
 #install packages 
 install.packages("nleqslv") 
